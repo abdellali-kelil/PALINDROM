@@ -1,0 +1,21 @@
+
+===============================
+Input sequences :
+Input file          : .\DATA\chrY.fa
+Number of sequences : 1
+Total length        : 0
+
+===============================
+Find palindromes in segment :
+Palindromes Length  : 10
+Segment length      : 50000
+Segment start       : 1
+Segment end         : 50000
+
+===============================
+Execution time :
+Runs : 10
+Mean : 0.5550 seconds
+Stdv : 0.0045 seconds
+
+===============================
